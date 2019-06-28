@@ -154,6 +154,11 @@ h6 {
 }
 
 
+/* === COLOR Text === */
+
+.colu-dark-blue {
+    color: #003865;
+}
 
 /* === FORM STYLE === */
 .form-control {
@@ -227,16 +232,16 @@ h6 {
 /*btn-default*/
 .btn-default {
     background: transparent;
-    border: 1px solid #fff;
-    color: #fff;
+    border: 1px solid #003865;
+    color: #003865;
 }
 .btn-default:hover, 
 .btn-default:focus, 
 .btn-default.focus, 
 .btn-default:active, 
 .btn-default.active{
-    color: #68c3a3;
-    background-color: #fff;
+    color: #ffffff;
+    background-color: #003865;
     border-color: #fff;
 }
 
@@ -692,12 +697,12 @@ a.linked i:hover::after{
     margin-top: -50px;
     left: 0;
     right:0;
-    color: #fff;
+    color: #ffffff !important;
     background: none;
 }
 
 .video-intro i{
-    border: 1px solid #fff;
+    border: 1px solid #ffffff;
     width: 80px;
     height: 60px;
     line-height: 60px;
@@ -713,6 +718,10 @@ a.linked i:hover::after{
 .video-intro .play-trigger {
     border: 0;
     background: transparent;
+}
+
+.video-intro i:hover {
+    background: #8900e1;
 }
 
 /* === Resume Section === */
