@@ -1721,11 +1721,14 @@ Icon for all respective meta
 	background-image: url(../images/bar-blob-gif.gif);
 	background-position: center;
 	background-repeat: no-repeat;
-	height: 50%;
-	left: 50%;
-	margin: -200px 0 0 -200px;
-	position: absolute;
-	top: 50%;
+    height: 50%;
+    position: fixed;
+    top: 25%;
+    left: 25%;
+	/* left: 50%; */
+	/* margin: -200px 0 0 -200px; */
+	/* position: absolute; */
+	/* top: 50%; */
 	width: 50%;
 }
 
