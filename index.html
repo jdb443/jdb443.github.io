@@ -1145,23 +1145,23 @@
             <div class="contact-form">
               <strong>Send me a message</strong>
               <!-- <form name="contact-form" method="post" action="assets/php/sendemail.php"> -->
-                <form name="contact-form" method="post" action="m&#097;&#105;&#108;&#116;&#111;:&#098;&#101;&#104;&#097;&#114;&#046;&#106;&#111;&#110;&#097;&#116;&#104;&#097;&#110;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;">
-                <div class="form-group">
-                  <label for="InputName1">Name</label>
-                  <input type="text" name="name" class="form-control" id="InputName1" required="">
-                </div>
-                <div class="form-group">
-                  <label for="InputEmail1">Email</label>
-                  <input type="email" name="email" class="form-control" id="InputEmail1" required="">
-                </div>
-                <div class="form-group">
-                  <label for="InputSubject">Subject</label>
-                  <input type="text" name="subject" class="form-control" id="InputSubject">
-                </div>
-                <div class="form-group">
-                  <label for="InputTextarea">Message</label>
-                  <textarea name="message" class="form-control" id="InputTextarea" rows="5" required=""></textarea>
-                </div>
+                <form name="contact-form" method="post" action=""> <!-- novalidate -->
+                  <div class="form-group">
+                    <label for="InputName1">Name</label>
+                    <input type="text" name="name" class="form-control" id="InputName1" required="false">
+                  </div>
+                  <div class="form-group">
+                    <label for="InputEmail1">Email</label>
+                    <input type="email" name="email" class="form-control" id="InputEmail1" required="false">
+                  </div>
+                  <div class="form-group">
+                    <label for="InputSubject">Subject</label>
+                    <input type="text" name="subject" class="form-control" id="InputSubject">
+                  </div>
+                  <div class="form-group">
+                    <label for="InputTextarea">Message</label>
+                    <textarea name="message" class="form-control" id="InputTextarea" rows="5" required=""></textarea>
+                  </div>
 
                 <button type="submit" name="submit" class="btn btn-primary">Send Message</button>
               </form>
