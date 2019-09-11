@@ -1447,6 +1447,7 @@ Resume Timeline
     line-height: 28px;
     font-weight: 300;
     text-transform: uppercase;
+    color: #003865;
 }
 
 .entry-title {
@@ -1455,10 +1456,10 @@ Resume Timeline
     font-weight: 700;
 }
 .entry-title a{
-    color: #282828;
+    color: #003865;
 }
 .entry-title a:hover{
-    color: #68c3a3;
+    color: #9BCBEB;
 }
 .entry-meta {
     color: #afafaf;
