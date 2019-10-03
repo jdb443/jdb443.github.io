@@ -30,7 +30,9 @@
 
 
 body{
-    font-family: 'Roboto', sans-serif;
+    /* font-family: "Roboto Slab", "Times New Roman", serif; */
+    font-family: "Roboto Slab", sans-serif;
+    /* font-family: 'Roboto', sans-serif; */
     line-height: 28px;
     font-weight: 300;
     font-size: 14px;
@@ -1628,8 +1630,9 @@ Icon for all respective meta
 /* === Footer Wrapper === */
 .footer-wrapper {
     background: #1a1e23;
-    padding: 36px 0;
+    padding: 24px 0;
     color: #fff;
+    font-weight: bold;
   
 }
 .copyright p {
