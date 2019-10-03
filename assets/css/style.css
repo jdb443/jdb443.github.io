@@ -1134,8 +1134,12 @@ Resume Timeline
     text-align: center;
 }
 
-.percent:after {
+/* .percent:after {
     content: '%';
+} */
+
+.percent:after {
+    content: '';
 }
 
 .chart-text span {
