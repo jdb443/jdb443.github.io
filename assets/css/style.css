@@ -1163,6 +1163,20 @@ Resume Timeline
 .works-section {
     background-color: #f7f7f7;
 }
+
+.robosans {
+    font-family: 'Roboto', sans-serif;
+    /* font-family: 'Roboto Condensed', sans-serif; */
+}
+
+.robocond {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.roboslab {
+    font-family: "Roboto Slab", sans-serif;
+}
+
 .portfolio-item {
     padding-right: 5px;
     padding-left: 5px;

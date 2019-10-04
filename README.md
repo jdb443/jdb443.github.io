@@ -5,8 +5,12 @@ Jonathan Behar is open to help you with your projects or consulting needs.
 Feel free to reach out to him via <a href="https://www.linkedin.com/in/jbehar/" target="_blank">LinkedIn</a>.
 
 
-## Skills
+## Demo
+[link to Demo](https://jdb443.github.io/):[https://jdb443.github.io/](https://jdb443.github.io/)
+<img src="./assets/images/works/jdb443_Home_Page_DCA.png">
 
+
+## Skills
 HTML
 HTML5
 CSS
@@ -25,6 +29,7 @@ LOOPS
 DE-BUGGING
 and MORE
 
+
 ### Credits: 
 - <a href="http://getbootstrap.com/" target="_blank">Bootstrap</a>
 - <a href="https://fortawesome.github.io/Font-Awesome/" target="_blank">Font Awesome</a>
@@ -32,6 +37,7 @@ and MORE
 - <a href="http://dimsemenov.com/plugins/magnific-popup/" target="_blank">Magnific Popup</a>
 - <a href="https://github.com/protonet/jquery.inview" target="_blank">Inview JS</a>
 - <a href="http://vestride.github.io/Shuffle/" target="_blank">Shuffle</a>
+
 
 #### Author
 Jonathan Behar
