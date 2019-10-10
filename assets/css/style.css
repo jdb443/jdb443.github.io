@@ -152,7 +152,7 @@ h5 {
 }
 
 h6 {
-    font-size     : 12px;
+    font-size: 12px;
 }
 
 
@@ -314,18 +314,20 @@ ul.list-check li::before {
 
 /* SECTION TITLE
 ----------------------------------------------------- */
+
 .section-title {
-    margin-bottom: 80px;
+    /* background-image: url(../../assets/images/section-divider-n.png) no-repeat 0 0; */
+    /* margin-bottom: 80px; */
     text-align: center;
     font-size: 50px;
     line-height: 50px;
-    color: #2c3e50;
+    /* color: #2c3e50; */
+    color: #003865;
     position: relative;
 }
 
-.section-title::after {
-    content: "";
-    background: url(../../assets/images/section-divider.png) no-repeat 0 0;
+/* .section-title::after {
+    background-image: url(../../assets/images/section-divider-n.png) no-repeat 0 0; 
     height: 15px;
     width: 113px;
     position: absolute;
@@ -333,8 +335,56 @@ ul.list-check li::before {
     right: 0;
     bottom: -40px;
     margin: 0 auto;
+} */
+
+.sec-break {
+    /* background-image: url(../../assets/images/section-divider-n.png); */
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    margin-top: 40px;
+    margin-bottom: 40px;
 }
 
+/* .section-title {
+    margin-bottom: 80px;
+    text-align: center;
+    font-size: 50px;
+    line-height: 50px;
+    /* color: #2c3e50; */ /* old blue */
+    /* color: #003865; /* Columbia blue */
+   /* position: relative;
+} */
+
+/* .section-title::after {
+    content: "";
+    background: url(../../assets/images/section-divider-n.png) no-repeat 0 0;
+    -webkit-background: #003865; 
+    height: 15px;
+    width: 113px;
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: -40px;
+    margin: 0 auto;
+} */
+
+/* .section-trans {
+    background: linear-gradient(#003865)
+} */
+/* 
+.section-titlenew::after {
+    content: "";
+    background-image: url(../../assets/images/section-divider.png) no-repeat 0 0 #003865;
+    height: 15px;
+    width: 113px;
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: -40px;
+    margin: 0 auto;
+} */
 
 
 /* === HOME === */
@@ -463,6 +513,12 @@ a.git i:hover::after{
 
 a.linked i:hover::after{
     background: #0077b5;
+    border: 1px solid transparent;
+    z-index: 0;
+}
+
+a.mail-li i:hover::after{
+    background: #333388;
     border: 1px solid transparent;
     z-index: 0;
 }
@@ -1038,15 +1094,20 @@ Resume Timeline
 
 /* === Skill Section === */
 .skills-section {
-    background-color: #1a1e23;
-    color: #fff;   
+    /* background-color: #1a1e23; */
+    /* background-color: #fff; */
+    background-color: #9BCBEB;
+    /* color: #fff; */
+    color: #003865;   
 }
 .skills-section .section-title{
-    color: #fff;
-    margin-bottom: 110px;  
+    color: #003865;
+    /* color: #fff; */
+    /* margin-bottom: 110px;   */
 }
 .skills-section .section-title h2{
     color: #fff;
+    /* color: #003865;  */
 }
 .skill-title {
     width: 90%;
@@ -1127,6 +1188,7 @@ Resume Timeline
     left:0;
 }
 .percent {
+    color: #003865;
     display: inline-block;
     margin: auto;
     line-height: 140px;
@@ -1145,6 +1207,7 @@ Resume Timeline
 }
 
 .chart-text span {
+    color: #003865;
     font-size: 18px;
     font-weight: 400;
     text-transform: capitalize;
@@ -1639,13 +1702,119 @@ Icon for all respective meta
 }
 
 
+/* === Contact ME === */
+.social-icons-contact {
+    margin-top: 20px;
+}
+.social-icons-contact a i{
+    position: relative;
+    color: #fff;
+    font-size: 18px;
+    margin: 0 7px;
+    line-height: 40px;
+    text-align: center;
+    width: 40px;
+    height: 40px;
+}
+
+.social-icons-contact a i::before {
+    position: relative;
+    z-index: 1;
+}
+
+.social-icons-contact a i::after {
+    position: absolute;
+    content: "";
+    left: 0;
+    top: 0;
+    width: 40px;
+    height: 40px;
+    border: 1px solid #fff;
+    border-radius: 3px;
+    -webkit-transform: rotate(45deg);
+       -moz-transform: rotate(45deg);
+        -ms-transform: rotate(45deg);
+         -o-transform: rotate(45deg);
+            transform: rotate(45deg);
+    -webkit-transition: all 300ms;
+       -moz-transition: all 300ms;
+         -o-transition: all 300ms;
+            transition: all 300ms;            
+}
+
+.social-icons-contact a i:active {
+    position: absolute;
+    content: "";
+    left: 0;
+    top: 0;
+    width: 40px;
+    height: 40px;
+    border: 1px solid #fff;
+    background: #000000 !important;
+    border: 1px solid transparent;
+    z-index: -5;
+    border-radius: 3px;
+    -webkit-transform: rotate(45deg);
+       -moz-transform: rotate(45deg);
+        -ms-transform: rotate(45deg);
+         -o-transform: rotate(45deg);
+            transform: rotate(45deg);
+    -webkit-transition: all 300ms;
+       -moz-transition: all 300ms;
+         -o-transition: all 300ms;
+            transition: all 300ms;            
+}
+
+a.image-link i::after {
+    background: #9BCBEB;
+    z-index: -5;
+}
+
+a.git-link i::after{
+    background: #000000;
+    border: 1px solid transparent;
+    /* z-index: -5; */
+}
+a.git-link i:hover::after{
+    background: #000000;
+    border: 1px solid;
+    /* z-index: -5; */
+}
+
+a.linked-link i::after{
+    background: #0077b5;
+    border: 1px solid transparent;
+    z-index: 0;
+}
+a.linked-link i:hover::after{
+    background: #0077b5;
+    border: 1px solid;
+    /* z-index: -5; */
+}
+a.mail-link i::after {
+    background: #333366;
+    border: 1px solid transparent;
+    z-index: 0;
+}
+a.mail-link i:hover::after{
+    background: #333366;
+    border: 1px solid #ffffff;
+    /* color: #e71921 !important; */
+    /* z-index: -5; */
+}
+
+.fa-envelope:hover {
+    color: #e71921;
+}
 
 
 /* === Footer Wrapper === */
 .footer-wrapper {
-    background: #1a1e23;
+    /* background: #1a1e23; */
+    background: #ffffff;
     padding: 24px 0;
-    color: #fff;
+    color: #003865;
+    /* color: #fff; */
     font-weight: bold;
   
 }
@@ -1671,14 +1840,18 @@ Icon for all respective meta
 }
 
 .scroll-up a {
-	background-color: #9BCBEB;
+    background-color: #003865;
+	/* background-color: #9BCBEB; */
 	display: block;
 	width: 28px;
 	height: 28px;
-	text-align: center;
-	color: #003865;
+    text-align: center;
+    color: #9BCBEB;
+	/* color: #003865; */
 	font-size: 14px;
-	line-height: 28px;
+    line-height: 28px;
+    font-weight: bold;
+    margin-bottom: 70px;
 }
 
 .scroll-up a:hover,
@@ -1837,6 +2010,20 @@ Icon for all respective meta
     margin-bottom: 0;
 }
 
+.about-light {
+    font-weight: bold;
+    color: #9BCBEB;
+}
+
+.about-dark {
+    /* font-weight: bold; */
+    color: #003865;
+    font-size: 1rem;
+}
+
+.about-name {
+    font-size: 1.25rem;
+}
 
 
 /*SERVICE SECTION*/

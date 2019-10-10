@@ -11,23 +11,28 @@ Feel free to reach out to him via <a href="https://www.linkedin.com/in/jbehar/" 
 
 
 ## Skills
-HTML
-HTML5
-CSS
-CSS3
-Bootstrap4
-Materialize CSS
-JavaScript
-Node.js
-React.js
-MySQL
-MongoDB
-Express
-Handlebars
-IF ELSE STATEMENTS
-LOOPS
-DE-BUGGING
-and MORE
+- HTML
+- HTML5
+- CSS
+- CSS3
+- Bootstrap4
+- Materialize CSS
+- JavaScript
+- JSON
+- NPM
+- Node.js
+- React.js
+- MySQL
+- MongoDB
+- Mongoose
+- Express
+- Sequelize
+- Handlebars
+- Arrays
+- IF ELSE STATEMENTS
+- LOOPS
+- DE-BUGGING
+- and MORE
 
 
 ### Credits: 

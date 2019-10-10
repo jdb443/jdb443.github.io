@@ -135,7 +135,8 @@ jQuery(function ($) {
                 //your configuration goes here
                 easing: 'easeOut',
                 delay: 3000,
-                barColor:'#9BCBEB', // color spinner
+                barColor:'#003865', // columbia darkblue color spinner
+                // barColor:'#9BCBEB', // columbia lightblue color spinner
                 trackColor:'rgba(255,255,255,0.2)',
                 scaleColor: false,
                 lineWidth: 8,
