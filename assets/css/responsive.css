@@ -1,33 +1,33 @@
 /* Extra small devices (phones, less than 768px) */
-@media (max-width : 766px) {
+@media (max-width: 766px) {
 	.intro h1 {
 		font-size: 40px;
 		line-height: 40px;
 	}
 
-	.social-icons ul{
+	.social-icons ul {
 		margin-left: 0;
 	}
 
-	.social-icons li{
-		padding:0;
+	.social-icons li {
+		padding: 0;
 	}
 
-	.social-icons a i{
-		margin:0 5px;
+	.social-icons a i {
+		margin: 0 5px;
 	}
 
-	.mouse-icon{
-		display:none;
+	.mouse-icon {
+		display: none;
 	}
 
 	.navbar-custom .navbar-brand,
 	.navbar-custom .navbar-nav > li > a,
 	.navbar-custom .navbar-nav .dropdown-menu > li > a {
-		padding:10px 15px;
+		padding: 10px 15px;
 	}
 
-	.navbar-custom .dropdown-menu{
+	.navbar-custom .dropdown-menu {
 		margin-left: 20px;
 	}
 
@@ -41,15 +41,14 @@
 		width: 100%;
 	}
 
-	.download-button .btn{
+	.download-button .btn {
 		margin-bottom: 20px;
 	}
 
-
 	/*resume*/
 	.resume:before,
-	.resume:after{
-		left:1px;
+	.resume:after {
+		left: 1px;
 	}
 
 	/*skill section*/
@@ -73,11 +72,11 @@
 		line-height: 18px;
 	}
 
-	.count-wrap > div{
+	.count-wrap > div {
 		margin-bottom: 40px;
 	}
 
-	#filter li{
+	#filter li {
 		margin-bottom: 20px;
 	}
 
@@ -105,80 +104,80 @@
 	}
 
 	/*service*/
-	.service-wrap > div{
-		margin-bottom:100px;
+	.service-wrap > div {
+		margin-bottom: 100px;
 	}
 
-	.service-wrap > div:nth-child(4){
-		margin-bottom:0;
+	.service-wrap > div:nth-child(4) {
+		margin-bottom: 0;
 	}
 
 	/*HOME TWO*/
-	#homeTwo:before{
-		width:100%;
+	#homeTwo:before {
+		width: 100%;
 	}
 
-	.personal-info{
+	.personal-info {
 		text-align: center;
-		padding:0 15px;
+		padding: 0 15px;
 	}
 
-	.personal-info h1{
+	.personal-info h1 {
 		font-size: 40px;
 		line-height: 50px;
 	}
 
-	.personal-info .intro-sub{
+	.personal-info .intro-sub {
 		font-size: 18px;
-  		line-height: 20px;
+		line-height: 20px;
 	}
 
-	.personal-info p{
+	.personal-info p {
 		line-height: 20px;
 		margin-bottom: 20px;
 	}
 
 	.personal-info .my-signature {
-	  	display: none;
+		display: none;
 	}
 
-	.personal-info .download-button a{
+	.personal-info .download-button a {
 		padding: 5px 10px;
-  		font-size: 15px;
-  		margin-right: 0;
+		font-size: 15px;
+		margin-right: 0;
 	}
 }
 
 /* Landscape Mobile */
-@media only screen and (min-width : 480px) and (max-width : 767px) {
+@media only screen and (min-width: 480px) and (max-width: 767px) {
 	.intro h1 {
 		font-size: 60px;
 		line-height: 80px;
 	}
-	
-	.social-icons ul{
+
+	.social-icons ul {
 		margin-left: -5px;
 	}
 
-	.social-icons li{
-		padding:0 5px;
+	.social-icons li {
+		padding: 0 5px;
 	}
 
-	.social-icons a i{
-		margin:0 7px;
+	.social-icons a i {
+		margin: 0 7px;
 	}
 
-	.mouse-icon{
-		display:none;
+	.mouse-icon {
+		display: none;
 	}
 
 	.navbar-custom .navbar-brand,
 	.navbar-custom .navbar-nav > li > a,
 	.navbar-custom .navbar-nav .dropdown-menu > li > a {
-		padding:10px 15px;
+		padding: 10px 15px;
 	}
 
-	.navbar-custom .dropdown-menu{
+	.navbar-custom .dropdown-menu {
 		margin-left: 20px;
 	}
 
@@ -192,11 +191,10 @@
 		width: 50%;
 	}
 
-
 	/*resume*/
 	.resume:before,
-	.resume:after{
-		left:1px;
+	.resume:after {
+		left: 1px;
 	}
 
 	/*skill section*/
@@ -220,7 +218,7 @@
 		line-height: 28px;
 	}
 
-	.count-wrap > div{
+	.count-wrap > div {
 		margin-bottom: 0px;
 	}
 
@@ -239,7 +237,7 @@
 		margin-bottom: 40px;
 	}
 
-	.contact-section .map-icon, 
+	.contact-section .map-icon,
 	.contact-section .mobile-icon {
 		float: none;
 	}
@@ -248,62 +246,59 @@
 	}
 
 	/*service*/
-	.service-wrap > div{
-		margin-bottom:100px;
+	.service-wrap > div {
+		margin-bottom: 100px;
 	}
 
-	.service-wrap > div:nth-child(4){
-		margin-bottom:0;
+	.service-wrap > div:nth-child(4) {
+		margin-bottom: 0;
 	}
 
 	/*HOME TWO*/
-	#homeTwo:before{
-		width:100%;
+	#homeTwo:before {
+		width: 100%;
 	}
 
-	.personal-info{
+	.personal-info {
 		text-align: center;
-		padding:0 15px;
+		padding: 0 15px;
 	}
 
-	.personal-info h1{
+	.personal-info h1 {
 		font-size: 60px;
-  		line-height: 80px;
+		line-height: 80px;
 	}
 
-	.personal-info .intro-sub{
+	.personal-info .intro-sub {
 		font-size: 24px;
 		line-height: 32px;
 	}
 
-	.personal-info p{
+	.personal-info p {
 		font-size: 14px;
 		line-height: 28px;
 	}
 
 	.personal-info .my-signature {
-	    margin-bottom: 45px;
-	    display: block;
+		margin-bottom: 45px;
+		display: block;
 	}
 
-	.personal-info .download-button a{
+	.personal-info .download-button a {
 		padding: 14px 20px;
-  		font-size: 14px;
-  		margin-right: 20px;
+		font-size: 14px;
+		margin-right: 20px;
 	}
-
-
 }
 
-
 /* Small devices (tablets, 768px and up) */
-@media (min-width : 768px) and (max-width : 991px) {
-	.navbar-custom .navbar-brand{
+@media (min-width: 768px) and (max-width: 991px) {
+	.navbar-custom .navbar-brand {
 		padding: 10px 15px;
 	}
 
-	.navbar-custom .navbar-nav > li > a, 
-	.navbar-custom .navbar-nav .dropdown-menu > li > a{
+	.navbar-custom .navbar-nav > li > a,
+	.navbar-custom .navbar-nav .dropdown-menu > li > a {
 		font-size: 12px;
 		padding: 15px;
 	}
@@ -316,8 +311,8 @@
 
 	/*resume*/
 	.resume:before,
-	.resume:after{
-		left:0px;
+	.resume:after {
+		left: 0px;
 	}
 
 	/*skill section*/
@@ -330,7 +325,7 @@
 		margin-bottom: 40px;
 	}
 
-	.entry-meta ul li{
+	.entry-meta ul li {
 		padding: 0 5px;
 	}
 
@@ -339,7 +334,7 @@
 		margin-bottom: 40px;
 	}
 
-	.contact-section .map-icon, 
+	.contact-section .map-icon,
 	.contact-section .mobile-icon {
 		float: left;
 	}
@@ -347,63 +342,52 @@
 		text-align: left;
 	}
 
-
-	.portfolio-item{
+	.portfolio-item {
 		min-height: 162px;
 	}
 
 	/*service*/
-	.service-wrap > div{
-		margin-bottom:100px;
+	.service-wrap > div {
+		margin-bottom: 100px;
 	}
 
 	.service-wrap > div:nth-child(3),
-	.service-wrap > div:nth-child(4){
-		margin-bottom:0;
+	.service-wrap > div:nth-child(4) {
+		margin-bottom: 0;
 	}
 
 	/*HOME TWO*/
-	#homeTwo:before{
-		width:100%;
+	#homeTwo:before {
+		width: 100%;
 	}
 
-	.personal-info{
+	.personal-info {
 		text-align: center;
-		padding:0 15px;
+		padding: 0 15px;
 	}
-
-
 }
-
-
-
 
 /* Medium devices (desktops, 992px and up) */
-@media (min-width : 992px) and (max-width : 1199px) {
-
-	.portfolio-item{
+@media (min-width: 992px) and (max-width: 1199px) {
+	.portfolio-item {
 		min-height: 150px;
 	}
-	.download-button a{
+	.download-button a {
 		margin-right: 10px;
 	}
-
 }
 
-
 /* Large devices (large desktops, 1200px and up) */
-@media (min-width : 1200px) and (max-width : 1279px) {
-
+@media (min-width: 1200px) and (max-width: 1279px) {
 }
 
 /* Large devices (large desktops, 1280px and up) */
-@media screen and (min-width:1280px) and (max-width:1599px) {
-	
+@media screen and (min-width: 1280px) and (max-width: 1599px) {
 }
 
 /* Extra Large devices (large desktops, 1600px and up) */
-@media screen and (min-width:1600px) and (max-width:1920px) {
-	.personal-info{
-		padding-right:180px;
+@media screen and (min-width: 1600px) and (max-width: 1920px) {
+	.personal-info {
+		padding-right: 180px;
 	}
 }

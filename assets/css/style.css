@@ -1369,8 +1369,13 @@ Resume Timeline
 }
 
 
-.links a i:hover {
+.links a i {
     color: #003865;
+    z-index: 1000;
+}
+
+.links a.git i {
+    color: #FFFFFF;
     z-index: 1000;
 }
 
@@ -1396,10 +1401,10 @@ Resume Timeline
     z-index: -1;
 }
 
-.image-links a:hover i::after {
+.image-links {
     background-color: #9BCBEB !important;
     color: #003865 !important;
-    z-index: -1;
+    /* z-index: -1; */
 }
 
 .portfolio-info {
@@ -1474,7 +1479,8 @@ Resume Timeline
 }
 
 .tt-overlay-bg {
-    background: rgba(26, 30, 35, 0.85);
+    /* background: rgba(26, 30, 35, 0.85); */
+    background: rgba(0, 56, 101, 0.75);
     padding: 110px 0;
 }
 
@@ -1852,6 +1858,7 @@ a.mail-link i:hover::after{
     line-height: 28px;
     font-weight: bold;
     margin-bottom: 70px;
+    border: white 1px solid;
 }
 
 .scroll-up a:hover,
