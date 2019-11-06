@@ -1395,7 +1395,7 @@ Resume Timeline
          -o-transform: rotate(45deg);
             transform: rotate(45deg);
 }
-.git a:hover i::after {
+.git a i::after {
     /* background-color: #000000; */
     color: #ffffff;
     z-index: -1;
