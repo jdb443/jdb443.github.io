@@ -1,5 +1,5 @@
 # I AM Jonathan Behar
-I AM Jonathan Behar a Full-Stack web developer, Database Analyst, designer and analyst. With a background in Information Systems and Finance. Learning at Columbia Fu Foundation School of Engineering and New York University Leonard N. Stern School of Business.
+I AM Jonathan Behar a Full-Stack web & mobile developer, Database Analyst, designer and analyst. With a background in Information Systems and Finance. Learning at Columbia Fu Foundation School of Engineering and New York University Leonard N. Stern School of Business.
 
 Jonathan Behar is open to help you with your projects or consulting needs.
 Feel free to reach out to him via <a href="https://www.linkedin.com/in/jbehar/" target="_blank">LinkedIn</a>.
