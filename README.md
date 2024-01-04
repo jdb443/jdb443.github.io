@@ -13,127 +13,127 @@ Feel free to reach out to him via [LinkedIn](https://www.linkedin.com/in/jbehar/
 
 ## Skills
 
-- ![clip](./assets/images/clipboard-check.svg) HTML
-- ![clip](./assets/images/clipboard-check.svg) HTML5
-- ![clip](./assets/images/clipboard-check.svg) CSS
-- ![clip](./assets/images/clipboard-check.svg) CSS3
-- ![clip](./assets/images/clipboard-check.svg) SCSS
-- ![clip](./assets/images/clipboard-check.svg) LESS
-- ![clip](./assets/images/clipboard-check.svg) Bootstrap4
-- ![clip](./assets/images/clipboard-check.svg) Bootstrap5
-- ![clip](./assets/images/clipboard-check.svg) Materialize CSS
-- ![clip](./assets/images/clipboard-check.svg) JavaScript
-- ![clip](./assets/images/clipboard-check.svg) JSON
-- ![clip](./assets/images/clipboard-check.svg) NPM
-- ![clip](./assets/images/clipboard-check.svg) NodeJS
-- ![clip](./assets/images/clipboard-check.svg) ReactJS
-- ![clip](./assets/images/clipboard-check.svg) React Native
-- ![clip](./assets/images/clipboard-check.svg) Hooks
-- ![clip](./assets/images/clipboard-check.svg) Components
-- ![clip](./assets/images/clipboard-check.svg) Rest API
-- ![clip](./assets/images/clipboard-check.svg) AWS
-- ![clip](./assets/images/clipboard-check.svg) AWS Lambda
-- ![clip](./assets/images/clipboard-check.svg) TypeScript
-- ![clip](./assets/images/clipboard-check.svg) MySQL
-- ![clip](./assets/images/clipboard-check.svg) Git
-- ![clip](./assets/images/clipboard-check.svg) Github
-- ![clip](./assets/images/clipboard-check.svg) GitLab
-- ![clip](./assets/images/clipboard-check.svg) T-SQL
-- ![clip](./assets/images/clipboard-check.svg) NoSQL
-- ![clip](./assets/images/clipboard-check.svg) PostgreSQL
-- ![clip](./assets/images/clipboard-check.svg) MongoDB
-- ![clip](./assets/images/clipboard-check.svg) Mongoose
-- ![clip](./assets/images/clipboard-check.svg) Express
-- ![clip](./assets/images/clipboard-check.svg) Sequelize
-- ![clip](./assets/images/clipboard-check.svg) Bash
-- ![clip](./assets/images/clipboard-check.svg) Handlebars
-- ![clip](./assets/images/clipboard-check.svg) Arrays
-- ![clip](./assets/images/clipboard-check.svg) IF ELSE STATEMENTS
-- ![clip](./assets/images/clipboard-check.svg) LOOPS
-- ![clip](./assets/images/clipboard-check.svg) DE-BUGGING
-- ![clip](./assets/images/clipboard-check.svg) Testing
-- ![clip](./assets/images/clipboard-check.svg) SAAS
-- ![clip](./assets/images/clipboard-check.svg) Accounting
-- ![clip](./assets/images/clipboard-check.svg) Adobe Acrobat
-- ![clip](./assets/images/clipboard-check.svg) Adobe After Effects
-- ![clip](./assets/images/clipboard-check.svg) Adobe Dreamweaver
-- ![clip](./assets/images/clipboard-check.svg) Adobe Illustrator
-- ![clip](./assets/images/clipboard-check.svg) Adobe InDesign
-- ![clip](./assets/images/clipboard-check.svg) Adobe Lightroom
-- ![clip](./assets/images/clipboard-check.svg) Adobe Photoshop
-- ![clip](./assets/images/clipboard-check.svg) Adobe XD
-- ![clip](./assets/images/clipboard-check.svg) Agile Methodologies
-- ![clip](./assets/images/clipboard-check.svg) Android
-- ![clip](./assets/images/clipboard-check.svg) Angular
-- ![clip](./assets/images/clipboard-check.svg) Arc Gis
-- ![clip](./assets/images/clipboard-check.svg) Assets
-- ![clip](./assets/images/clipboard-check.svg) Autocad
-- ![clip](./assets/images/clipboard-check.svg) Autodesk Fusion 360
-- ![clip](./assets/images/clipboard-check.svg) Autodesk Maya
-- ![clip](./assets/images/clipboard-check.svg) C++
-- ![clip](./assets/images/clipboard-check.svg) C (Programming Language)
-- ![clip](./assets/images/clipboard-check.svg) C#
-- ![clip](./assets/images/clipboard-check.svg) Confluence
-- ![clip](./assets/images/clipboard-check.svg) Cybersecurity
-- ![clip](./assets/images/clipboard-check.svg) Docker
-- ![clip](./assets/images/clipboard-check.svg) Django
-- ![clip](./assets/images/clipboard-check.svg) .NET Framework
-- ![clip](./assets/images/clipboard-check.svg) Eclipse
-- ![clip](./assets/images/clipboard-check.svg) Figma
-- ![clip](./assets/images/clipboard-check.svg) Final Cut Pro
-- ![clip](./assets/images/clipboard-check.svg) Firebase
-- ![clip](./assets/images/clipboard-check.svg) Front-end Development
-- ![clip](./assets/images/clipboard-check.svg) Go
-- ![clip](./assets/images/clipboard-check.svg) Google Ads
-- ![clip](./assets/images/clipboard-check.svg) Google Analytics
-- ![clip](./assets/images/clipboard-check.svg) Google Cloud Platform
-- ![clip](./assets/images/clipboard-check.svg) Hadoop
-- ![clip](./assets/images/clipboard-check.svg) Heroku
-- ![clip](./assets/images/clipboard-check.svg) iMovie
-- ![clip](./assets/images/clipboard-check.svg) IT Operations
-- ![clip](./assets/images/clipboard-check.svg) Java
-- ![clip](./assets/images/clipboard-check.svg) Jira
-- ![clip](./assets/images/clipboard-check.svg) jQuery
-- ![clip](./assets/images/clipboard-check.svg) Keynote
-- ![clip](./assets/images/clipboard-check.svg) Kotlin
-- ![clip](./assets/images/clipboard-check.svg) Linux
-- ![clip](./assets/images/clipboard-check.svg) Logic Pro
-- ![clip](./assets/images/clipboard-check.svg) Machine Learning
-- ![clip](./assets/images/clipboard-check.svg) Matlab
-- ![clip](./assets/images/clipboard-check.svg) Maven
-- ![clip](./assets/images/clipboard-check.svg) Microsoft Access
-- ![clip](./assets/images/clipboard-check.svg) Microsoft Azure
-- ![clip](./assets/images/clipboard-check.svg) Microsoft Excel
-- ![clip](./assets/images/clipboard-check.svg) Microsoft Outlook
-- ![clip](./assets/images/clipboard-check.svg) Microsoft Power Automate
-- ![clip](./assets/images/clipboard-check.svg) Microsoft Power BI
-- ![clip](./assets/images/clipboard-check.svg) Microsoft Power Point
-- ![clip](./assets/images/clipboard-check.svg) Microsoft Project
-- ![clip](./assets/images/clipboard-check.svg) Microsoft Word
-- ![clip](./assets/images/clipboard-check.svg) MongoDB
-- ![clip](./assets/images/clipboard-check.svg) Object Oriented Programming
-- ![clip](./assets/images/clipboard-check.svg) Objective-C
-- ![clip](./assets/images/clipboard-check.svg) PHP
-- ![clip](./assets/images/clipboard-check.svg) Pro Tools
-- ![clip](./assets/images/clipboard-check.svg) Python
-- ![clip](./assets/images/clipboard-check.svg) Quickbooks
-- ![clip](./assets/images/clipboard-check.svg) R (Programming Language)
-- ![clip](./assets/images/clipboard-check.svg) Revit
-- ![clip](./assets/images/clipboard-check.svg) Ruby on Rails
-- ![clip](./assets/images/clipboard-check.svg) Rust
-- ![clip](./assets/images/clipboard-check.svg) Scala
-- ![clip](./assets/images/clipboard-check.svg) Search Engine Optimization (SEO)
-- ![clip](./assets/images/clipboard-check.svg) Sharepoint
-- ![clip](./assets/images/clipboard-check.svg) Sketchup
-- ![clip](./assets/images/clipboard-check.svg) Solidworks
-- ![clip](./assets/images/clipboard-check.svg) Spring Framework
-- ![clip](./assets/images/clipboard-check.svg) Swift/SwiftUI
-- ![clip](./assets/images/clipboard-check.svg) Unity
-- ![clip](./assets/images/clipboard-check.svg) VBA
-- ![clip](./assets/images/clipboard-check.svg) Visio
-- ![clip](./assets/images/clipboard-check.svg) Windows Server
-- ![clip](./assets/images/clipboard-check.svg) WordPress
-- ![clip](./assets/images/clipboard-check.svg) XML
+- ![clipboard-check](./assets/images/clipboard-check.svg) HTML
+- ![clipboard-check](./assets/images/clipboard-check.svg) HTML5
+- ![clipboard-check](./assets/images/clipboard-check.svg) CSS
+- ![clipboard-check](./assets/images/clipboard-check.svg) CSS3
+- ![clipboard-check](./assets/images/clipboard-check.svg) SCSS
+- ![clipboard-check](./assets/images/clipboard-check.svg) LESS
+- ![clipboard-check](./assets/images/clipboard-check.svg) Bootstrap4
+- ![clipboard-check](./assets/images/clipboard-check.svg) Bootstrap5
+- ![clipboard-check](./assets/images/clipboard-check.svg) Materialize CSS
+- ![clipboard-check](./assets/images/clipboard-check.svg) JavaScript
+- ![clipboard-check](./assets/images/clipboard-check.svg) JSON
+- ![clipboard-check](./assets/images/clipboard-check.svg) NPM
+- ![clipboard-check](./assets/images/clipboard-check.svg) NodeJS
+- ![clipboard-check](./assets/images/clipboard-check.svg) ReactJS
+- ![clipboard-check](./assets/images/clipboard-check.svg) React Native
+- ![clipboard-check](./assets/images/clipboard-check.svg) Hooks
+- ![clipboard-check](./assets/images/clipboard-check.svg) Components
+- ![clipboard-check](./assets/images/clipboard-check.svg) Rest API
+- ![clipboard-check](./assets/images/clipboard-check.svg) AWS
+- ![clipboard-check](./assets/images/clipboard-check.svg) AWS Lambda
+- ![clipboard-check](./assets/images/clipboard-check.svg) TypeScript
+- ![clipboard-check](./assets/images/clipboard-check.svg) MySQL
+- ![clipboard-check](./assets/images/clipboard-check.svg) Git
+- ![clipboard-check](./assets/images/clipboard-check.svg) Github
+- ![clipboard-check](./assets/images/clipboard-check.svg) GitLab
+- ![clipboard-check](./assets/images/clipboard-check.svg) T-SQL
+- ![clipboard-check](./assets/images/clipboard-check.svg) NoSQL
+- ![clipboard-check](./assets/images/clipboard-check.svg) PostgreSQL
+- ![clipboard-check](./assets/images/clipboard-check.svg) MongoDB
+- ![clipboard-check](./assets/images/clipboard-check.svg) Mongoose
+- ![clipboard-check](./assets/images/clipboard-check.svg) Express
+- ![clipboard-check](./assets/images/clipboard-check.svg) Sequelize
+- ![clipboard-check](./assets/images/clipboard-check.svg) Bash
+- ![clipboard-check](./assets/images/clipboard-check.svg) Handlebars
+- ![clipboard-check](./assets/images/clipboard-check.svg) Arrays
+- ![clipboard-check](./assets/images/clipboard-check.svg) IF ELSE STATEMENTS
+- ![clipboard-check](./assets/images/clipboard-check.svg) LOOPS
+- ![clipboard-check](./assets/images/clipboard-check.svg) DE-BUGGING
+- ![clipboard-check](./assets/images/clipboard-check.svg) Testing
+- ![clipboard-check](./assets/images/clipboard-check.svg) SAAS
+- ![clipboard-check](./assets/images/clipboard-check.svg) Accounting
+- ![clipboard-check](./assets/images/clipboard-check.svg) Adobe Acrobat
+- ![clipboard-check](./assets/images/clipboard-check.svg) Adobe After Effects
+- ![clipboard-check](./assets/images/clipboard-check.svg) Adobe Dreamweaver
+- ![clipboard-check](./assets/images/clipboard-check.svg) Adobe Illustrator
+- ![clipboard-check](./assets/images/clipboard-check.svg) Adobe InDesign
+- ![clipboard-check](./assets/images/clipboard-check.svg) Adobe Lightroom
+- ![clipboard-check](./assets/images/clipboard-check.svg) Adobe Photoshop
+- ![clipboard-check](./assets/images/clipboard-check.svg) Adobe XD
+- ![clipboard-check](./assets/images/clipboard-check.svg) Agile Methodologies
+- ![clipboard-check](./assets/images/clipboard-check.svg) Android
+- ![clipboard-check](./assets/images/clipboard-check.svg) Angular
+- ![clipboard-check](./assets/images/clipboard-check.svg) Arc Gis
+- ![clipboard-check](./assets/images/clipboard-check.svg) Assets
+- ![clipboard-check](./assets/images/clipboard-check.svg) Autocad
+- ![clipboard-check](./assets/images/clipboard-check.svg) Autodesk Fusion 360
+- ![clipboard-check](./assets/images/clipboard-check.svg) Autodesk Maya
+- ![clipboard-check](./assets/images/clipboard-check.svg) C++
+- ![clipboard-check](./assets/images/clipboard-check.svg) C (Programming Language)
+- ![clipboard-check](./assets/images/clipboard-check.svg) C#
+- ![clipboard-check](./assets/images/clipboard-check.svg) Confluence
+- ![clipboard-check](./assets/images/clipboard-check.svg) Cybersecurity
+- ![clipboard-check](./assets/images/clipboard-check.svg) Docker
+- ![clipboard-check](./assets/images/clipboard-check.svg) Django
+- ![clipboard-check](./assets/images/clipboard-check.svg) .NET Framework
+- ![clipboard-check](./assets/images/clipboard-check.svg) Eclipse
+- ![clipboard-check](./assets/images/clipboard-check.svg) Figma
+- ![clipboard-check](./assets/images/clipboard-check.svg) Final Cut Pro
+- ![clipboard-check](./assets/images/clipboard-check.svg) Firebase
+- ![clipboard-check](./assets/images/clipboard-check.svg) Front-end Development
+- ![clipboard-check](./assets/images/clipboard-check.svg) Go
+- ![clipboard-check](./assets/images/clipboard-check.svg) Google Ads
+- ![clipboard-check](./assets/images/clipboard-check.svg) Google Analytics
+- ![clipboard-check](./assets/images/clipboard-check.svg) Google Cloud Platform
+- ![clipboard-check](./assets/images/clipboard-check.svg) Hadoop
+- ![clipboard-check](./assets/images/clipboard-check.svg) Heroku
+- ![clipboard-check](./assets/images/clipboard-check.svg) iMovie
+- ![clipboard-check](./assets/images/clipboard-check.svg) IT Operations
+- ![clipboard-check](./assets/images/clipboard-check.svg) Java
+- ![clipboard-check](./assets/images/clipboard-check.svg) Jira
+- ![clipboard-check](./assets/images/clipboard-check.svg) jQuery
+- ![clipboard-check](./assets/images/clipboard-check.svg) Keynote
+- ![clipboard-check](./assets/images/clipboard-check.svg) Kotlin
+- ![clipboard-check](./assets/images/clipboard-check.svg) Linux
+- ![clipboard-check](./assets/images/clipboard-check.svg) Logic Pro
+- ![clipboard-check](./assets/images/clipboard-check.svg) Machine Learning
+- ![clipboard-check](./assets/images/clipboard-check.svg) Matlab
+- ![clipboard-check](./assets/images/clipboard-check.svg) Maven
+- ![clipboard-check](./assets/images/clipboard-check.svg) Microsoft Access
+- ![clipboard-check](./assets/images/clipboard-check.svg) Microsoft Azure
+- ![clipboard-check](./assets/images/clipboard-check.svg) Microsoft Excel
+- ![clipboard-check](./assets/images/clipboard-check.svg) Microsoft Outlook
+- ![clipboard-check](./assets/images/clipboard-check.svg) Microsoft Power Automate
+- ![clipboard-check](./assets/images/clipboard-check.svg) Microsoft Power BI
+- ![clipboard-check](./assets/images/clipboard-check.svg) Microsoft Power Point
+- ![clipboard-check](./assets/images/clipboard-check.svg) Microsoft Project
+- ![clipboard-check](./assets/images/clipboard-check.svg) Microsoft Word
+- ![clipboard-check](./assets/images/clipboard-check.svg) MongoDB
+- ![clipboard-check](./assets/images/clipboard-check.svg) Object Oriented Programming
+- ![clipboard-check](./assets/images/clipboard-check.svg) Objective-C
+- ![clipboard-check](./assets/images/clipboard-check.svg) PHP
+- ![clipboard-check](./assets/images/clipboard-check.svg) Pro Tools
+- ![clipboard-check](./assets/images/clipboard-check.svg) Python
+- ![clipboard-check](./assets/images/clipboard-check.svg) Quickbooks
+- ![clipboard-check](./assets/images/clipboard-check.svg) R (Programming Language)
+- ![clipboard-check](./assets/images/clipboard-check.svg) Revit
+- ![clipboard-check](./assets/images/clipboard-check.svg) Ruby on Rails
+- ![clipboard-check](./assets/images/clipboard-check.svg) Rust
+- ![clipboard-check](./assets/images/clipboard-check.svg) Scala
+- ![clipboard-check](./assets/images/clipboard-check.svg) Search Engine Optimization (SEO)
+- ![clipboard-check](./assets/images/clipboard-check.svg) Sharepoint
+- ![clipboard-check](./assets/images/clipboard-check.svg) Sketchup
+- ![clipboard-check](./assets/images/clipboard-check.svg) Solidworks
+- ![clipboard-check](./assets/images/clipboard-check.svg) Spring Framework
+- ![clipboard-check](./assets/images/clipboard-check.svg) Swift/SwiftUI
+- ![clipboard-check](./assets/images/clipboard-check.svg) Unity
+- ![clipboard-check](./assets/images/clipboard-check.svg) VBA
+- ![clipboard-check](./assets/images/clipboard-check.svg) Visio
+- ![clipboard-check](./assets/images/clipboard-check.svg) Windows Server
+- ![clipboard-check](./assets/images/clipboard-check.svg) WordPress
+- ![clipboard-check](./assets/images/clipboard-check.svg) XML
 ...
 - and MORE
 
