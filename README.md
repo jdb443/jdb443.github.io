@@ -82,14 +82,16 @@ Feel free to reach out to him via [LinkedIn](https://www.linkedin.com/in/jbehar/
 - ![clipboard-check](./assets/images/clipboard-check.svg) Figma
 - ![clipboard-check](./assets/images/clipboard-check.svg) Final Cut Pro
 - ![clipboard-check](./assets/images/clipboard-check.svg) Firebase
+- ![clipboard-check](./assets/images/clipboard-check.svg) Flutter SDK
 - ![clipboard-check](./assets/images/clipboard-check.svg) Front-end Development
-- ![clipboard-check](./assets/images/clipboard-check.svg) Go
+- ![clipboard-check](./assets/images/clipboard-check.svg) Go (Programming Language)
 - ![clipboard-check](./assets/images/clipboard-check.svg) Google Ads
 - ![clipboard-check](./assets/images/clipboard-check.svg) Google Analytics
 - ![clipboard-check](./assets/images/clipboard-check.svg) Google Cloud Platform
 - ![clipboard-check](./assets/images/clipboard-check.svg) Hadoop
 - ![clipboard-check](./assets/images/clipboard-check.svg) Heroku
 - ![clipboard-check](./assets/images/clipboard-check.svg) iMovie
+- ![clipboard-check](./assets/images/clipboard-check.svg) iOS
 - ![clipboard-check](./assets/images/clipboard-check.svg) IT Operations
 - ![clipboard-check](./assets/images/clipboard-check.svg) Java
 - ![clipboard-check](./assets/images/clipboard-check.svg) Jira
@@ -141,13 +143,13 @@ Feel free to reach out to him via [LinkedIn](https://www.linkedin.com/in/jbehar/
 
 ### Credits
 
-- <a href="http://getbootstrap.com/" target="_blank">Bootstrap</a>
-- <a href="https://fortawesome.github.io/Font-Awesome/" target="_blank">Font Awesome</a>
-- <a href="https://daneden.github.io/animate.css/" target="_blank">Animate.css</a>
-- <a href="http://dimsemenov.com/plugins/magnific-popup/" target="_blank">Magnific Popup</a>
-- <a href="https://github.com/protonet/jquery.inview" target="_blank">Inview JS</a>
-- <a href="http://vestride.github.io/Shuffle/" target="_blank">Shuffle</a>
+- [Bootstrap](http://getbootstrap.com/ 'Bootstrap')
+- [Font Awesome](https://fortawesome.github.io/Font-Awesome/ 'Font Awesome')
+- [Animate.CSS](https://daneden.github.io/animate.css/ 'Animate.CSS')
+- [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/ 'Magnific Popup')
+- [Inview JS](https://github.com/protonet/jquery.inview 'Inview JS')
+- [Shuffle](http://vestride.github.io/Shuffle/ 'Shuffle')
 
-#### Author
+### Author
 
 Jonathan Behar
