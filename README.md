@@ -133,7 +133,9 @@ Feel free to reach out to him via [LinkedIn](https://www.linkedin.com/in/jbehar/
 - ![clipboard-check](./assets/images/clipboard-check.svg) Visio
 - ![clipboard-check](./assets/images/clipboard-check.svg) Windows Server
 - ![clipboard-check](./assets/images/clipboard-check.svg) WordPress
-- ![clipboard-check](./assets/images/clipboard-check.svg) XML &nbsp;
+- ![clipboard-check](./assets/images/clipboard-check.svg) XML
+\
+&nbsp;
 ...
 - and MORE
 
