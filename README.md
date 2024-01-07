@@ -77,8 +77,8 @@ Feel free to reach out to him via [LinkedIn](https://www.linkedin.com/in/jbehar/
 - ![clipboard-check](./assets/images/clipboard-check.svg) Confluence
 - ![clipboard-check](./assets/images/clipboard-check.svg) Cybersecurity
 - ![clipboard-check](./assets/images/clipboard-check.svg) Docker
-- ![clipboard-check](./assets/images/clipboard-check.svg) Django
 - ![clipboard-check](./assets/images/clipboard-check.svg) .NET Framework
+- ![clipboard-check](./assets/images/clipboard-check.svg) Django
 - ![clipboard-check](./assets/images/clipboard-check.svg) Eclipse
 - ![clipboard-check](./assets/images/clipboard-check.svg) Figma
 - ![clipboard-check](./assets/images/clipboard-check.svg) Final Cut Pro

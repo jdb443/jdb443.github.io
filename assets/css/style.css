@@ -28,7 +28,6 @@
 =====================================
 */
 
-
 body{
     /* font-family: "Roboto Slab", "Times New Roman", serif; */
     font-family: "Roboto Slab", sans-serif;
@@ -58,6 +57,7 @@ a > * {
     cursor: pointer;
     text-decoration: none;
 }
+
 a:focus,
 a:hover {
     outline: none;
@@ -116,9 +116,6 @@ a,
 	-webkit-box-shadow: none;
 			box-shadow: none;
 }
-
-
-
 
 /* === Typography === */
 
@@ -265,6 +262,9 @@ button:focus {
 img {
     width: 100%;
 }
+img.auto {
+    width: auto;
+}
 
 hr {
     margin-top: 15px;
@@ -283,7 +283,6 @@ ul, ol {
     list-style : none
 }
 
-
 /* ul.list-check {
     
 } */
@@ -293,13 +292,13 @@ ul.list-check li{
     font-size: 18px;
     line-height: 32px;
 }
+
 ul.list-check li::before {
     content: "\f00c";
     font-family: fontawesome;
     color: #9BCBEB;
     margin-right: 10px;
 }
-
 
 /* === MAIN === */
 .section-padding {
@@ -310,7 +309,6 @@ ul.list-check li::before {
     /* margin-right: .5rem; */
     margin-right: 0.1rem;
 }
-
 
 /* SECTION TITLE
 ----------------------------------------------------- */
@@ -669,8 +667,6 @@ a.mail-li i:hover::after{
     background: #222;
 }
 
-
-
 /* === About Section === */
 .short-info {
     margin-bottom: 40px;
@@ -749,8 +745,6 @@ a.mail-li i:hover::after{
     border-bottom:0;
 }
 
-
-
 /* === Video Section === */
 
 .video-section {
@@ -803,15 +797,19 @@ Resume Timeline
 .resume-title h3{
     text-align: center;
 }
+
 .resume-section > div > div{
     margin-bottom: 60px;
 }
+
 .resume-section > div > div:nth-of-type(2){
     margin-bottom: 0;
 }
+
 .resume-title{
     margin-bottom: 30px;
 }
+
 .timeline {
     position: relative;
     padding: 0;
@@ -955,10 +953,6 @@ Resume Timeline
     margin-bottom: 20px;
 }
 
-
-
-
-
 @media(min-width:992px) {
 .timeline:before {
     left: 50%;
@@ -1017,6 +1011,7 @@ Resume Timeline
     border-top: 10px solid transparent;
     border-bottom: 10px solid transparent;
 }
+
 .timeline>li .timeline-panel::before {
     left: 100%;
     border-left: 12px solid #ECECEC;
@@ -1025,6 +1020,7 @@ Resume Timeline
     -o-transition:all 400ms;
     transition: all 400ms;
 }
+
 .timeline>li .timeline-panel:hover::before {
     border-left: 12px solid #68c3a3;
 }
@@ -1037,6 +1033,7 @@ Resume Timeline
     -o-transition:all 400ms;
     transition: all 400ms;
 }
+
 .timeline>li.timeline-inverted .timeline-panel:hover::before {
     border-right: 12px solid #68c3a3;
     border-left: 0;
@@ -1050,6 +1047,7 @@ Resume Timeline
     border-top: 10px solid transparent;
     border-bottom: 10px solid transparent;
 }
+
 .timeline>li .timeline-panel::after {
     left: 100%;
     margin-left: -2px;
@@ -1059,6 +1057,7 @@ Resume Timeline
     -o-transition:all 400ms;
     transition: all 400ms;
 }
+
 .timeline>li .timeline-panel:hover::after {
     border-left: 12px solid #68c3a3;
 }
@@ -1072,6 +1071,7 @@ Resume Timeline
     -o-transition:all 400ms;
     transition: all 400ms;
 }
+
 .timeline>li.timeline-inverted .timeline-panel:hover::after {
     border-right: 12px solid #68c3a3;
     border-left: 0;
@@ -1083,14 +1083,12 @@ Resume Timeline
     margin-left: -60px;
     margin-top: 28px;
 }
+
 .timeline>li .posted-date .month {
     float: none;
 }
 
-
 }
-
-
 
 /* === Skill Section === */
 .skills-section {
@@ -1100,19 +1098,23 @@ Resume Timeline
     /* color: #fff; */
     color: #003865;   
 }
+
 .skills-section .section-title{
     color: #003865;
     /* color: #fff; */
     /* margin-bottom: 110px;   */
 }
+
 .skills-section .section-title h2{
     color: #fff;
     /* color: #003865;  */
 }
+
 .skill-title {
     width: 90%;
     float: left;
 }
+
 .skill-title h3{
     font-size: 18px;
     font-weight: 400;
@@ -1120,13 +1122,12 @@ Resume Timeline
     text-transform: capitalize;
 }
 
-
-
 /* progress-bar */
 
 .skill-progress {
     position: relative;
 }
+
 .progress {
     height: 10px;
     margin-bottom: 40px;
@@ -1139,6 +1140,7 @@ Resume Timeline
 .progress-bar {
     background-color: #68c3a3;
 }
+
 .progress-bar span{
     position: absolute;
     top: -20px;
@@ -1151,7 +1153,6 @@ Resume Timeline
   -o-transition: width 2s ease-in-out;
   transition:  width 2s ease-in-out;
 }
-
 
 .skill-chart h3 {
     margin-top: 20px;
@@ -1182,11 +1183,13 @@ Resume Timeline
     margin: 40px auto;
     text-align: center;
 }
+
 .chart canvas {
     position:absolute; 
     top:0; 
     left:0;
 }
+
 .percent {
     color: #003865;
     display: inline-block;
@@ -1220,8 +1223,6 @@ Resume Timeline
 .angular .chart {margin-top:0;}
 .chart .chart-text h3{font-size:22px;}
 
-
-
 /* === Work Section === */
 .works-section {
     background-color: #f7f7f7;
@@ -1245,6 +1246,7 @@ Resume Timeline
     padding-left: 5px;
     min-height: 235px;
 }
+
 .portfolio-bg{
    height: 550px; /* changed the project height to a Fixed position */
    background: #fff;
@@ -1273,7 +1275,6 @@ Resume Timeline
     }
 }
 
-
 .portfolio {
     position: relative;
     overflow: hidden;
@@ -1289,7 +1290,6 @@ Resume Timeline
     margin: 0 0 35px;
     text-align: center;
 }
-
 
 #filter li a {
     color: #003865;
