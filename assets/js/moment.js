@@ -17,3 +17,5 @@
 
 var d = new Date();
 document.getElementById("displayMoment").innerHTML = d.getFullYear();
+var e = new Date();
+document.getElementById("displayExperience").innerHTML = e.getFullYear() - 2012;
