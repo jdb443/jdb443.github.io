@@ -1268,7 +1268,8 @@ Resume Timeline
 
 @media (min-width: 767.98px) {
     .portfolio-bg {
-        height: 425px;
+        height: 450px;
+        font-size: 11px;
     }
 }
 
