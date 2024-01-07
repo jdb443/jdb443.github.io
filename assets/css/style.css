@@ -4125,7 +4125,41 @@ a.mail-link i:hover::after{
     float: none;
 }
 
-/*==Upwork==*/
+}
+
+/* ==UPWORK== */
+.timeline {
+    position: relative;
+    padding: 0;
+    list-style: none;
+}
+
+.timeline:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 2px;
+    margin-left: -1.5px;
+    background-color: #e1e1e1;
+}
+
+.timeline>li {
+    position: relative;
+    margin-bottom: 50px;
+    min-height: 50px;
+}
+
+.timeline>li:before,
+.timeline>li:after {
+    content: " ";
+    display: table;
+}
+
+.timeline>li:after {
+    clear: both;
+}
+
 .timeline>li .timeline-panel-U {
     float: left;
     position: relative;
@@ -4150,6 +4184,78 @@ a.mail-link i:hover::after{
     border-right-width: 14px;
     border-left-width: 0;
 }
+
+.timeline>li .posted-date {
+    position: relative;
+    text-align: center;
+    background-color: #fff;
+    left: 20px;
+}
+
+
+.timeline>li .posted-date .month {
+    font-size: 18px;
+    line-height: 20px;
+    font-weight: 700;
+    display: block;
+    color: #2c3e50;
+    top: 0;
+    float: left;
+}
+
+.timeline>li.timeline-inverted>.timeline-panel-U {
+    float: right;
+    text-align: left;
+}
+
+.timeline>li.timeline-inverted>.timeline-panel-U:before {
+    right: auto;
+    left: -15px;
+    border-right-width: 15px;
+    border-left-width: 0;
+}
+
+.timeline>li.timeline-inverted>.timeline-panel-U:after {
+    right: auto;
+    left: -14px;
+    border-right-width: 14px;
+    border-left-width: 0;
+}
+
+.timeline>li:last-child {
+    margin-bottom: 0;
+}
+
+.timeline-heading h3 {
+    font-size: 20px;
+    line-height: 28px;
+}
+.timeline-heading span{
+    display: block;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+
+
+
+
+@media(min-width:992px) {
+.timeline:before {
+    left: 50%;
+}
+
+.timeline>li {
+    margin-bottom: 15px;
+    min-height: 100px;
+}
+
+.timeline>li .posted-date {
+    position: absolute;
+    text-align: center;
+    background-color: #fff;
+}
+
 .timeline>li .timeline-panel-U {
     float: left;
     width: 43%;
@@ -4202,7 +4308,7 @@ a.mail-link i:hover::after{
     transition: all 400ms;
 }
 .timeline>li .timeline-panel-U:hover::before {
-    border-left: 12px solid #6fda44;;
+    border-left: 12px solid #6fda44;
 }
 
 .timeline>li.timeline-inverted .timeline-panel-U::before {
@@ -4253,4 +4359,18 @@ a.mail-link i:hover::after{
     border-left: 0;
 }
 
+.timeline>li .posted-date {
+    left: 50%;
+    width: 120px;
+    margin-left: -60px;
+    margin-top: 28px;
+}
+.timeline>li .posted-date .month {
+    float: none;
+}
+
+
+}
+.left-text {
+    text-align: left;
 }

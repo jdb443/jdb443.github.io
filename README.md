@@ -70,6 +70,7 @@ Feel free to reach out to him via [LinkedIn](https://www.linkedin.com/in/jbehar/
 - ![clipboard-check](./assets/images/clipboard-check.svg) Autocad
 - ![clipboard-check](./assets/images/clipboard-check.svg) Autodesk Fusion 360
 - ![clipboard-check](./assets/images/clipboard-check.svg) Autodesk Maya
+- ![clipboard-check](./assets/images/clipboard-check.svg) Bloomberg
 - ![clipboard-check](./assets/images/clipboard-check.svg) C++
 - ![clipboard-check](./assets/images/clipboard-check.svg) C (Programming Language)
 - ![clipboard-check](./assets/images/clipboard-check.svg) C#

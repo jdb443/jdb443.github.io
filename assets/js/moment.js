@@ -19,3 +19,7 @@ var d = new Date();
 document.getElementById("displayMoment").innerHTML = d.getFullYear();
 var e = new Date();
 document.getElementById("displayExperience").innerHTML = e.getFullYear() - 2012;
+var f = new Date();
+document.getElementById("displayMac").innerHTML = f.getFullYear();
+var g = new Date();
+document.getElementById("displayPC").innerHTML = g.getFullYear();
