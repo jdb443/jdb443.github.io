@@ -85,6 +85,7 @@ Feel free to reach out to him via [LinkedIn](https://www.linkedin.com/in/jbehar/
 - ![clipboard-check](./assets/images/clipboard-check.svg) Firebase
 - ![clipboard-check](./assets/images/clipboard-check.svg) Flutter SDK
 - ![clipboard-check](./assets/images/clipboard-check.svg) Front-end Development
+- ![clipboard-check](./assets/images/clipboard-check.svg) GarageBand
 - ![clipboard-check](./assets/images/clipboard-check.svg) Go (Programming Language)
 - ![clipboard-check](./assets/images/clipboard-check.svg) Google Ads
 - ![clipboard-check](./assets/images/clipboard-check.svg) Google Analytics
@@ -133,10 +134,12 @@ Feel free to reach out to him via [LinkedIn](https://www.linkedin.com/in/jbehar/
 - ![clipboard-check](./assets/images/clipboard-check.svg) Swift/SwiftUI
 - ![clipboard-check](./assets/images/clipboard-check.svg) System Application Product (SAP)
 - ![clipboard-check](./assets/images/clipboard-check.svg) Unity
+- ![clipboard-check](./assets/images/clipboard-check.svg) UNIX
 - ![clipboard-check](./assets/images/clipboard-check.svg) VBA
 - ![clipboard-check](./assets/images/clipboard-check.svg) Visio
 - ![clipboard-check](./assets/images/clipboard-check.svg) Windows Server
 - ![clipboard-check](./assets/images/clipboard-check.svg) WordPress
+- ![clipboard-check](./assets/images/clipboard-check.svg) XCode
 - ![clipboard-check](./assets/images/clipboard-check.svg) XML
 \
 &nbsp;
