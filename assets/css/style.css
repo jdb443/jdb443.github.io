@@ -263,7 +263,7 @@ img {
     width: 100%;
 }
 img.auto {
-    width: auto;
+    width: 20px;
 }
 
 hr {
