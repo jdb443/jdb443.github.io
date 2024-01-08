@@ -19,8 +19,8 @@ Feel free to reach out to him via [LinkedIn](https://www.linkedin.com/in/jbehar/
 - ![clipboard-check](./assets/images/clipboard-check.svg) CSS3
 - ![clipboard-check](./assets/images/clipboard-check.svg) SCSS
 - ![clipboard-check](./assets/images/clipboard-check.svg) LESS
-- ![clipboard-check](./assets/images/clipboard-check.svg) Bootstrap4
-- ![clipboard-check](./assets/images/clipboard-check.svg) Bootstrap5
+- ![clipboard-check](./assets/images/clipboard-check.svg) Bootstrap 4
+- ![clipboard-check](./assets/images/clipboard-check.svg) Bootstrap 5
 - ![clipboard-check](./assets/images/clipboard-check.svg) Materialize CSS
 - ![clipboard-check](./assets/images/clipboard-check.svg) JavaScript
 - ![clipboard-check](./assets/images/clipboard-check.svg) JSON
@@ -91,7 +91,7 @@ Feel free to reach out to him via [LinkedIn](https://www.linkedin.com/in/jbehar/
 - ![clipboard-check](./assets/images/clipboard-check.svg) Google Cloud Platform
 - ![clipboard-check](./assets/images/clipboard-check.svg) Hadoop
 - ![clipboard-check](./assets/images/clipboard-check.svg) Heroku
-- ![clipboard-check](./assets/images/clipboard-check.svg) iMovie
+- ![clipboard-check](./assets/images/clipboard-check.svg) iMovie | iMovie HD
 - ![clipboard-check](./assets/images/clipboard-check.svg) iOS
 - ![clipboard-check](./assets/images/clipboard-check.svg) IT Operations
 - ![clipboard-check](./assets/images/clipboard-check.svg) Java
@@ -131,6 +131,7 @@ Feel free to reach out to him via [LinkedIn](https://www.linkedin.com/in/jbehar/
 - ![clipboard-check](./assets/images/clipboard-check.svg) Solidworks
 - ![clipboard-check](./assets/images/clipboard-check.svg) Spring Framework
 - ![clipboard-check](./assets/images/clipboard-check.svg) Swift/SwiftUI
+- ![clipboard-check](./assets/images/clipboard-check.svg) System Application Product (SAP)
 - ![clipboard-check](./assets/images/clipboard-check.svg) Unity
 - ![clipboard-check](./assets/images/clipboard-check.svg) VBA
 - ![clipboard-check](./assets/images/clipboard-check.svg) Visio
