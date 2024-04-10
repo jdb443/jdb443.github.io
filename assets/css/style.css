@@ -852,6 +852,13 @@ Resume Timeline
             transform: rotate(45deg);
 }
 
+.experience {
+    content: "";
+}
+#experience {
+    content: "";
+}
+
 .timeline:before {
     content: "";
     position: absolute;
